@@ -35,7 +35,6 @@ Overall, having an open mind can help us become better versions of ourselves, no
 ## Related
 - Dunning-Kruger effect
 
-
 #Learning
 #Self-development
 #Metacognition 
