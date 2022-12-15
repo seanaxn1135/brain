@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I - Personal Development/Ego prevents you from learning from others.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I - Personal Development/Ego prevents you from learning from others.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I - Personal Development/Ego prevents you from learning from others.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I - Personal Development/Ego prevents you from learning from others.md"
+                "file": "README.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "0d2ec2375ebc004b",
   "lastOpenFiles": [
+    "R - Personal Development/Ego prevents you from learning from others.md",
     "README.md",
     "Test.md"
   ]
