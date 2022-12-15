@@ -4,7 +4,7 @@
 
 We usually see rankings and scores as a one-dimensional entity. 
 - Oh, that guy is a grandmaster at Chess. He must be very good at the game.
-- He's bronze in <insert game here/>? He must be pretty bad
+- He's bronze in \<insert game here\>? He must be pretty bad
 
 These ideas are generally correct, but we tend to focus too much on these rankings and forget that different competencies contribute to the ranking as a whole.
 
