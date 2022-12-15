@@ -1,6 +1,6 @@
-This idea came from reading Dota 2 guides on how to improve my MMR (Matchmaking ranking). The post talks about how MMR rating works in games and how it accurately depicts your individual skill to win. Then why do people constantly complain about their teammates being bad and that it is their teammates pulling them back?
+*This idea came from reading Dota 2 guides on how to improve my MMR (Matchmaking ranking). The post talks about how MMR rating works in games and how it accurately depicts your individual skill to win. Then why do people constantly complain about their teammates being bad and that it is their teammates pulling them back?*
 
-## Understand that there are multiple dimensions to games.
+# Understand that there are multiple dimensions to games.
 
 We usually see rankings and scores as a one-dimensional entity. 
 - Oh, that guy is a grandmaster at Chess. He must be very good at the game.
@@ -13,7 +13,7 @@ In games, many dimensions and competencies make up a person's general skill leve
 - In shooter games, some players excel at precise aiming, winning one-on-one duels with their opponents. Others prefer to outmanoeuvre their enemies, catching them off guard and gaining the upper hand.
 - In MOBA games such as Dota, some players excel at the laning phase, forcing their opponents to play from a disadvantaged position. Others might excel at team fighting, able to quickly identify and target key enemy players to turn an unfavourable fight into a victory.
 
-## Tunnel visioning
+# Tunnel visioning
 
 When thinking
 - "my teammate is bad",
@@ -24,7 +24,7 @@ When we think we are better than someone else, it can be challenging to learn fr
 
 Instead of closing ourselves off from learning from others, it's crucial to have an open mind and be willing to learn from anyone, no matter who they are. By doing this, we can improve and become better versions of ourselves.
 
-## Be humble and open to ideas
+# Be humble and open to ideas
 
 By understanding that different skills contribute to being good at something, we humble ourselves, allowing us to approach learning with an open mind and be willing to learn from others.
 
@@ -32,7 +32,7 @@ But this concept also applies to many other areas of life. For example, in our p
 
 Overall, having an open mind can help us become better versions of ourselves, no matter what we are doing or trying to achieve. It's important to remember that we can always learn from others, even if we think we already know everything there is to know. By keeping an open mind, we can continue to grow and improve throughout our lives.
 
-## Related
+# Related
 - Dunning-Kruger effect
 
 #Learning
