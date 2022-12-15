@@ -1,0 +1,4 @@
+- [Grammarly](https://www.grammarly.com/)
+	- Grammar checker
+- [ChatGPT3](https://openai.com/blog/chatgpt/)
+	- Idea generation
