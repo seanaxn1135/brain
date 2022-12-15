@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R - Writing Tools I use.md",
+                "file": "R - Writing/Writing Tools I use.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Writing Tools I use.md",
+                "file": "R - Writing/Writing Tools I use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R - Writing Tools I use.md",
+                "file": "R - Writing/Writing Tools I use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R - Writing Tools I use.md"
+                "file": "R - Writing/Writing Tools I use.md"
               }
             }
           }
@@ -149,7 +149,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cc1d00836a5214a",
+  "active": "77b94a087ef56066",
   "lastOpenFiles": [
     "README.md",
     "R - Personal Development/Ego prevents you from learning from others.md",
